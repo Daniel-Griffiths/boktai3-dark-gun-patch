@@ -1,4 +1,4 @@
-# Boktai 3: The Dark Gun
+# Boktai 3: Dark Gun Patch
 
 A patch for the Japanese *Boktai 3* (GBA) that gives Django Sabata's dark gun: the **Phantom** frame and the **dark lens**.
 
